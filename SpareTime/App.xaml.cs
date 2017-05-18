@@ -1,5 +1,8 @@
-﻿using System.Collections.Generic;
-
+﻿using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using Plugin.InAppBilling;
+using Plugin.InAppBilling.Abstractions;
 using Xamarin.Forms;
 
 namespace SpareTime
